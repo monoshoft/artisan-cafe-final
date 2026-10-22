@@ -1,0 +1,6 @@
+{
+  "name": "Artisan Café Web Showcase",
+  "description": "Interactive client presentation recreating 5 distinct artisan café websites with custom aesthetics, typography, Three.js 3D heroes, and fluid motion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
